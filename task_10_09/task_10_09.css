@@ -1,0 +1,40 @@
+ .box {
+    background-color: #c68da2;
+    padding: 10px;
+    width: 50%;
+    font-size: 20px;
+}
+
+ .line {
+    background-color: #9f526e;
+    margin: 20px;
+}
+
+.line-name{
+    background-color: #732441;
+    display: inline-block;
+}
+
+.line-num{
+    display: inline-block;
+}
+
+hr{
+    width: 100%;
+    color: black;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.list{width: 50%;}
+
+.line-even{background-color: cornflowerblue;}
+.line-odd{background-color: aqua;}
+.line.marked{background-color: lightgrey;}
+
+.exp{
+    color: gray;
+}
+.exp1{
+    color: blue;
+}
