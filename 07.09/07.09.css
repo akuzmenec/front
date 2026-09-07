@@ -3,6 +3,6 @@
   margin: 0;
   font-size: 20px;
 }
-ol {
+ol, ul {
   padding-left: 1em;
 }
